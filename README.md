@@ -1,5 +1,7 @@
 # FACIA — Catastrophe Impact Analytics (Showcase)
 
+> Part of [`insurance-ai-lab`](https://github.com/mishraabhishek1218/insurance-ai-lab) — Catastrophe Intelligence Platform (⭐ P0).
+
 **This is a trimmed, public showcase of a proprietary product.** Full source is private. This repo contains architecture notes, a demo link, and illustrative code snippets only — not the working application. See [LICENSE.md](./LICENSE.md).
 
 A catastrophe impact analytics platform for P&C insurance carriers.
